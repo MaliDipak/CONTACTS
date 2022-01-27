@@ -3,7 +3,7 @@
 
 ## **Discription :-**
 
-### _____Mini Project in C Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this  project, you can add, view, edit, sort and delete contacts. All added and edited records are saved in a file.
+### _____Here, I have made a 'Contacts Management System' using C language. This is my one of best project in C language. It is a simple console application without graphics. It is similar to the contact manager in cell phones. In this  project, you can add, view, edit, sort and delete contacts. All added and edited records are saved in a file.
 
 ### _____You can list contacts by name, phone no., address and email. File handling has been used to record all data. I have used data structure to store the user name, email and contact. Overall, understanding the simple source code of this project will teach you how to add, edit, search, list and remove data of file.
 
@@ -15,7 +15,7 @@
 
 ---
 
-## **Authors :-**
+## **Author :-**
 
 - [Dipak Chandrakant Mali](https://www.github.com/malidipak)
 ---
