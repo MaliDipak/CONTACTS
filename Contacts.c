@@ -156,7 +156,7 @@ void del_contact()
     }
     else
     {
-        printf("\n *Noumber deleted, press any key...");
+        printf("\n *Number deleted, press any key...");
     }
 end:
     getch();
