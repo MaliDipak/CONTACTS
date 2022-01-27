@@ -33,16 +33,16 @@
 
 ## **Output Screenshots :-**
 
-
+---
 ## Main Menu :
 ![20220127_185540](https://user-images.githubusercontent.com/96681905/151369075-84f5ca9b-839a-46cf-8d00-3a69618e0bf1.png)
 
 
-
+---
 ## Add New Contact :
 ![20220127_185703](https://user-images.githubusercontent.com/96681905/151369334-08d1bd40-829d-492e-86de-f21940aec742.png)
 
 
-
-## Delete contacts : 
+---
+## Delete Contacts : 
 ![20220127_185850](https://user-images.githubusercontent.com/96681905/151369886-54ba3b4d-9500-451f-9e92-7cdf11404b89.png)
